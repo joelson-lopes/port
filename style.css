@@ -993,6 +993,26 @@ a {
         transition: all ease 6s;
     }
 
+    details {
+    width: auto;
+    height: auto;
+    cursor: pointer;
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    font-weight: 400;
+    color: var(--color-green-neon);
+}
+
+::details-content {
+    color: var(--color-text);
+    background-color: var(--color-bg-dark2);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+    .profile-pic{
+        animation: none;
+    }
     .setup-pic {
         width: 90vw;
     }
