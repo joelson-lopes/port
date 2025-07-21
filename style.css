@@ -58,7 +58,7 @@ strong{
 
 .logotipo1-header-left{
     margin-left: 2%;
-    width: 10vw;
+    width: 13vw;
     height: auto;
     border-radius: 50%;
 }
@@ -176,7 +176,7 @@ header{
     align-items: center;
     justify-content: space-between;
 
-    padding: 10px;
+    padding: 5px;
     /* background-color: var(--color-bg-dark); */
     background-color: var(--color-cyan2);
 }
