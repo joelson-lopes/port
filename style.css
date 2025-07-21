@@ -890,7 +890,7 @@ a {
         font-size: 1.6rem;
         font-weight: 600;
         text-align: left;
-        margin-top: 30px;
+        /* margin-bottom: 5px; */
     }
 
     .projects-card2 {
@@ -916,7 +916,7 @@ a {
         font-size: 1.6rem;
         font-weight: 600;
         text-align: left;
-        margin-top: 30px;
+        /* margin-top: 5px; */
     }
 
     .projects-card3 {
@@ -942,7 +942,7 @@ a {
         font-size: 1.6rem;
         font-weight: 600;
         text-align: left;
-        margin-top: 30px;
+        /* margin-top: 5px; */
     }
 
     .projects-card4 {
@@ -968,7 +968,7 @@ a {
         font-size: 1.6rem;
         font-weight: 600;
         text-align: left;
-        margin-top: 30px;
+        /* margin-top: 5px; */
     }
 
     .project-link2 {
@@ -1009,10 +1009,6 @@ a {
     padding: 5px;
     border-radius: 10px;
 }
-
-    .profile-pic{
-        animation: none;
-    }
     .setup-pic {
         width: 90vw;
     }
@@ -1044,6 +1040,7 @@ a {
     .profile-pic {
         margin-top: -50%;
         width: 50vw;
+        animation: none;
     }
 
     form {
